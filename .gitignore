@@ -1,2 +1,3 @@
 *.DS_Store
 *.pynb_checkpoints
+config.py
